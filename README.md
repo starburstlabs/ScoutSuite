@@ -4,6 +4,12 @@
 
 #
 
+## Wealthbox Multi-Account Scanner
+
+This fork includes a tool for running ScoutSuite across all Wealthbox AWS accounts in parallel, with automatic account discovery from our org-data Terraform module. See **[Multi-Account Scan Documentation](docs/MULTI_ACCOUNT_SCAN.md)** for setup and usage.
+
+---
+
 [![Workflow](https://github.com/nccgroup/ScoutSuite/workflows/CI%20Workflow/badge.svg)](https://github.com/nccgroup/ScoutSuite/actions)
 [![CodeCov](https://codecov.io/gh/nccgroup/ScoutSuite/branch/master/graph/badge.svg)](https://codecov.io/gh/nccgroup/ScoutSuite)
 
